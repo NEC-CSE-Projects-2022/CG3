@@ -1,0 +1,8 @@
+include requirements.txt
+graft static
+graft templates
+include *.sh
+include *.yaml
+include *.py
+recursive-include models *
+recursive-include data *
