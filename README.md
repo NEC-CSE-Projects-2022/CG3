@@ -2,7 +2,7 @@
 # Team Number – Project Title
 
 ## Team Info
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+- 22471A05E3 — Alajangi Keerthisree ( [LinkedIn](https://www.linkedin.com/in/alajangi-keerthisree-bb1865276/) )
 _Work Done: xxxxxxxxxx_
 
 - 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
