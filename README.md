@@ -4,10 +4,8 @@
 ## Team Info
 -**22471A05E3 —** **Alajangi Keerthisree** ( [LinkedIn](https://www.linkedin.com/in/alajangi-keerthisree-bb1865276/) )
 Work Done:Data preprocessing, PSI calculation, feature engineering, PCA and clustering.
-
 -**22471A05G1 —** **Katari Thanmai** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
 Work Done: ML/DL model implementation (RF, FNN, LSTM, GRU), training, tuning, evaluation.
-
 -**22471A05J6 —** **Sonti Vineela** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
 Work Done: Model comparison, result analysis, visualization, documentation.
 
@@ -42,70 +40,45 @@ This project aims to predict and classify water quality using machine learning a
 
 **Dataset Details:**
 -Total samples (rows): 3,276
-
 -Total features (columns): 37
-
 -Data type: Fully numerical
 
 ---
 
 ## Dependencies Used
 -Python 3.10
-
 -Pandas
-
 -NumPy 
-
 -Scikit-learn 
-
 -Data preprocessing and feature scaling
-
 -Machine learning models
-
 -Evaluation metrics and cross
-
 -TensorFlow – Deep learning framework
-
 -Keras – Neural network model implementation (LSTM, GRU)
-
 -Matplotlib
-
 -Google Colab / Local CPU Systems
 
 ---
 
 ## EDA & Preprocessing
 -Collected and reviewed the water quality dataset and its structure
-
 -Analyzed feature distributions and summary statistics
-
 -Identified correlations among physicochemical parameters
-
 -Visualized data patterns using correlation heatmaps
-
 -Detected missing values and outliers in the dataset
-
 -Handled missing values using median imputation
-
 -Removed outliers using the IQR method
-
 -Normalized features using Min–Max scaling
-
 -Ensured data consistency and quality for model training
-
 -Prepared the final dataset for machine learning and deep learning models
 
 ---
 
 ## Model Training Info
 -Split the dataset into training and testing sets (80:20)
-
 -Trained multiple ML and DL models (Random Forest, MLP, LSTM, GRU)
-
 -Tuned hyperparameters and applied regularization techniques
-
 -Performed cross-validation to ensure model robustness
-
 -Evaluated models using accuracy, recall, and F1-score
 
 ---
