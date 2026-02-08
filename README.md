@@ -43,7 +43,7 @@ This project aims to predict and classify water quality using machine learning a
 ---
 
 ## Dependencies Used
--Python 3.10
+-Python 3.10,
 -Pandas
 -NumPy 
 -Scikit learn 
