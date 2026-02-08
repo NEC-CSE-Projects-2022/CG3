@@ -1,5 +1,5 @@
 
-# Team Number – Project Title
+# CG3 – pH and Turbidity: Multi-Parameter Water Quality Monitoring Using Edge-Integrated Sensing Platforms
 
 ## Team Info
 - **22471A05E3 —** **Alajangi Keerthisree** ( [LinkedIn](https://www.linkedin.com/in/alajangi-keerthisree-bb1865276/) )  Work Done:Data preprocessing, PSI calculation, feature engineering, PCA and clustering.
