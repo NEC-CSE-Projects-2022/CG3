@@ -2,9 +2,9 @@
 # Team Number – Project Title
 
 ## Team Info
-- **22471A05E3 —** **Alajangi Keerthisree** ( [LinkedIn](https://www.linkedin.com/in/alajangi-keerthisree-bb1865276/) )Work Done:Data preprocessing, PSI calculation, feature engineering, PCA and clustering.
-- **22471A05G1 —** **Katari Thanmai** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )Work Done: ML/DL model implementation (RF, FNN, LSTM, GRU), training, tuning, evaluation.
-- **22471A05J6 —** **Sonti Vineela** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )Work Done: Model comparison, result analysis, visualization, documentation.
+- **22471A05E3 —** **Alajangi Keerthisree** ( [LinkedIn](https://www.linkedin.com/in/alajangi-keerthisree-bb1865276/) )  Work Done:Data preprocessing, PSI calculation, feature engineering, PCA and clustering.
+- **22471A05G1 —** **Katari Thanmai** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )  Work Done: ML/DL model implementation (RF, FNN, LSTM, GRU), training, tuning, evaluation.
+- **22471A05J6 —** **Sonti Vineela** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )  Work Done: Model comparison, result analysis, visualization, documentation.
 
 
 
@@ -111,7 +111,7 @@ This project aims to predict and classify water quality using machine learning a
 ---
 
 ## Deployment Info
--Supports reuse of trained models without retraining
+- Supports reuse of trained models without retraining
 - Can be deployed as a Flask-based REST API
 - Can be integrated into decision-support or monitoring systems
 
